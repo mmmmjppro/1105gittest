@@ -20,3 +20,12 @@
 git close レポジトリURL フォルダ名
 ```
 
+**stage register**
+```
+git add フォルダorファイル
+```
+
+**commit**
+```
+git commit -m "コミットコメント"
+```
