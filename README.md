@@ -1,3 +1,7 @@
-# 1105gittest
+# 1105gittest😊　
 ## 初めてのgit練習
-sukkiri java chapter 13 
+
+### Note 💚
+- sukkiri java chapter 13
+- local repository > c desktop 
+  
