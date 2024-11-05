@@ -12,4 +12,11 @@
 - SVN 
 - local / remote repository / work tree 
 
+## git refference 😊
+
+**clone**
+
+```
+git close レポジトリURL フォルダ名
+```
 
