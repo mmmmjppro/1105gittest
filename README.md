@@ -6,3 +6,10 @@
 - sukkiri java chapter 13 
 - local repository location > desktop 
 
+### key words 💚
+
+- SCM 
+- SVN 
+- local / remote repository / work tree 
+
+
